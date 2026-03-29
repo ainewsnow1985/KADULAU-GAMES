@@ -1,0 +1,10 @@
+{
+  "app": "VICO RUBIKO",
+  "version": "1.0",
+  "role": "admin",
+  "hash": "61f157e2c1bf0850e9c4e5b631b4653d6f8dde6059755962357f3e847c01f023",
+  "algorithm": "SHA-256",
+  "password_hint": "ANDRESXPOP1985",
+  "instructions": "Carga este archivo en la app desde Ajustes > Chat AI Admin > 📂 Cargar Llave JSON para activar el modo administrador.",
+  "created": "2026-03-29"
+}
